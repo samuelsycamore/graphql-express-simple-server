@@ -1,0 +1,20 @@
+{
+  "users": [
+    { "id": "23", "firstName": "Flarm", "age": 20, "companyId": "1" },
+    { "id": "40", "firstName": "Gloob", "age": 40, "companyId": "2" },
+    { "id": "41", "firstName": "Torny", "age": 40, "companyId": "2" }
+  ],
+
+  "companies": [
+    {
+      "id": "1",
+      "name": "doodad",
+      "description": "sup"
+    },
+    {
+      "id": "2",
+      "name": "homeboy",
+      "description": "u know"
+    }
+  ]
+}
